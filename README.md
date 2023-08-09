@@ -30,10 +30,10 @@ The Duo Studio website is a modern and stylish portfolio showcasing the design a
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/duo-studio-website.git
+   git clone https://github.com/gkirat/Frontend-website-2.git
    
 3. Open the project folder:
-   cd duo-studio-website
+   cd Frontend-website-2
 
 4. Open the `index.html` file in your preferred web browser.
 
